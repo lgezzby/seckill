@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * Created by ZhengBoyi on 2017/6/23.
  */
-public class Seckill {
+public class Seckill{
     private long seckillId;
     private String name;
     private int number;
